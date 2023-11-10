@@ -1,4 +1,4 @@
-### Pipeline between chess.com (Source) and bigQuery (Destination)
+### Pipeline between chess.com (Source) and bigQuery (Destination) -- In Progess
 _______________________________________________________________________________________________________________________________________
 
 ![BigQuery After Chess Data Load](https://github.com/oyemishra/dlt_case_study/assets/73794797/308607bf-5e62-426f-9cd2-a5bc6850508b)
