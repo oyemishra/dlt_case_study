@@ -10,6 +10,9 @@
 - pip install -U dlt
 - 
   **Note**: Command above installs (or upgrades) library core.
+  
+**Note: Microsoft ODBC driver for SQL Server must be installed to use this destination. 
+This can't be included with dlt's python dependencies so you must installed it separately on your system.**
 
 #### Step 3: Initialize dlt pipeline for SQL Server. 
 - dlt init sqlserver_pipeline mssql
