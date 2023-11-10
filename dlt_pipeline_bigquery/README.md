@@ -3,19 +3,23 @@
 #### Step 1: Create a virtual Environment and activate it.
 - python -m venv dlt_pipeline_bigquery
 - dlt_pipeline_bigquuery\Scripts\activate.bat
+- 
   **Note**: A virtual environment with name 'dlt_pipeline_bigquery' will be created and activated.
   
   ![create and activate virtual environment](https://github.com/oyemishra/dlt_case_study/assets/73794797/eae439c9-212f-4e68-87a7-86cee4cef831)
 
 #### Step 2: Install dlt library using pip: 
 - pip install -U dlt
+- 
   **Note**: Command above installs (or upgrades) library core.
 
 #### Step 3: Initialize dlt pipeline for bigquery. 
 - dlt init bigquery_pipeline bigquery
+- 
   **Note**: A new pipeline bigquery_pipeline will be created.
 
   ![dlt init bigquery](https://github.com/oyemishra/dlt_case_study/assets/73794797/304af796-e4a9-4f5a-bc88-813f96caf244)
+  
   ![dlt init bigquery files and folders](https://github.com/oyemishra/dlt_case_study/assets/73794797/0bb083b4-e32f-43c5-843c-1e57568454f3)
 
 #### Step 4: Install the requirements for the bigquery.
@@ -36,11 +40,13 @@
   ![update dlt credentials](https://github.com/oyemishra/dlt_case_study/assets/73794797/3c73ce92-d846-4b11-b5e3-2aa6794bcca4)
 
 #### Step 8: Open the bigquery_pipeline.py pipeline template created and update the resource with your custom data.
+
   **Note**: this data will be uploaded to the bigquery table.
   ![customized resource and pipeline](https://github.com/oyemishra/dlt_case_study/assets/73794797/fe056f8c-590d-4517-8aeb-1e4fb5e9d5c6)
 
 #### Step 10: Run the pipeline.
 - python bigquery_pipeline.py
+- 
   ![run the pipeline](https://github.com/oyemishra/dlt_case_study/assets/73794797/d0eedb00-7c0b-4616-94a5-812a9e24c36b)
 
 ### Bigquery Project "hive-project" before the pipeline run.
