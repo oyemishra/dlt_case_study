@@ -34,6 +34,7 @@
 - 
   ![sqldatabase_pipeline_run](https://github.com/oyemishra/dlt_case_study/assets/73794797/69bc86cd-1c33-4f9f-92ee-563f21def14d)
 
+_____________________________________________________________________________________________________________________________________________
 ### SQL Database "database_name" before the pipeline run.
   ![sqldatabase before pipeline run](https://github.com/oyemishra/dlt_case_study/assets/73794797/3fba158d-93ef-4446-94e8-080c9d16133a)
 
