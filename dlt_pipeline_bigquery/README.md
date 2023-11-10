@@ -48,7 +48,7 @@
 - python bigquery_pipeline.py
 - 
   ![run the pipeline](https://github.com/oyemishra/dlt_case_study/assets/73794797/d0eedb00-7c0b-4616-94a5-812a9e24c36b)
-
+_____________________________________________________________________________________________________________________________________________
 ### Bigquery Project "hive-project" before the pipeline run.
   ![BigQuery Before](https://github.com/oyemishra/dlt_case_study/assets/73794797/bae4d0cb-5ba0-40a7-8bee-54bda27f89b5)
 
